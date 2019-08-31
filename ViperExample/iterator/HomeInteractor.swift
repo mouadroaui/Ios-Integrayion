@@ -6,8 +6,8 @@
 //  Copyright © 2019 raoui mouad. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
-class HomeInteractor: Class {
+class HomeInteractor  {
 
 }

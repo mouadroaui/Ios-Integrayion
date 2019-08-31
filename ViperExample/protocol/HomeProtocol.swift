@@ -8,6 +8,10 @@
 
 import UIKit
 
-class HomeProtocol: Class {
+protocol HomeProtocol: class {
 
+}
+
+protocol ViewTo {
+    
 }
